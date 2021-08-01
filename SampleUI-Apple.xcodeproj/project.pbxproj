@@ -49,6 +49,7 @@
 		A6AD807F26B738D2001FCF06 /* Tests macOS.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "Tests macOS.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
 		A6AD808326B738D2001FCF06 /* Tests_macOS.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Tests_macOS.swift; sourceTree = "<group>"; };
 		A6AD808526B738D2001FCF06 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		A6AD809A26B738DD001FCF06 /* README.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -86,6 +87,7 @@
 		A6AD805726B738D1001FCF06 = {
 			isa = PBXGroup;
 			children = (
+				A6AD809A26B738DD001FCF06 /* README.md */,
 				A6AD805C26B738D1001FCF06 /* Shared */,
 				A6AD806626B738D2001FCF06 /* iOS */,
 				A6AD806D26B738D2001FCF06 /* macOS */,
